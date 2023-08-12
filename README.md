@@ -22,7 +22,6 @@ Technologies Used: Outline the programming languages, frameworks, or tools you u
 Key Features: Showcasing the unique features will captivate viewers.
 Screenshots/Demo: Make the project tangible through screenshots or a demo link.
 GitHub Link: Project 3
-(Continue this pattern for each of your projects.)
 
 About Me
 Briefly introduce yourself as a developer and your journey so far. Share your interests, motivations, and what drives you to create innovative projects.
@@ -31,11 +30,8 @@ Contact
 Provide ways for interested parties to reach out to you, whether through GitHub, email, LinkedIn, or other platforms.
 
 License
-Specify the license under which your projects are published. For example:
-
 This repository's contents are open-source under the MIT license.
 Feel free to explore the projects and delve into the code. Your feedback and suggestions are highly appreciated. Thank you for visiting my portfolio repository!
 
-Your Name
-(Optional: Your Title/Position)
-(Optional: Date)
+Luke Slautterback
+8/11/2023
