@@ -1,7 +1,7 @@
 <p align="center">**My Project Portfolio Repository**</p>
 Welcome to my GitHub repository showcasing my various projects! This repository serves as a comprehensive portfolio of my work, highlighting my skills, creativity, and dedication to different areas of interest. Each project demonstrates my growth as a developer and my passion for continuous learning.
 
-**Projects**
+<p align="left">**Projects**</p>
 1. Project Name 1
 Description: A brief overview of the project, its purpose, and its significance.
 Technologies Used: List the programming languages, frameworks, and tools used.
