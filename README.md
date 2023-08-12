@@ -1,7 +1,7 @@
-My Project Portfolio Repository
+**My Project Portfolio Repository**
 Welcome to my GitHub repository showcasing my various projects! This repository serves as a comprehensive portfolio of my work, highlighting my skills, creativity, and dedication to different areas of interest. Each project demonstrates my growth as a developer and my passion for continuous learning.
 
-Projects
+**Projects**
 1. Project Name 1
 Description: A brief overview of the project, its purpose, and its significance.
 Technologies Used: List the programming languages, frameworks, and tools used.
@@ -23,13 +23,11 @@ Key Features: Showcasing the unique features will captivate viewers.
 Screenshots/Demo: Make the project tangible through screenshots or a demo link.
 GitHub Link: Project 3
 
-About Me
-Briefly introduce yourself as a developer and your journey so far. Share your interests, motivations, and what drives you to create innovative projects.
+**Contact**
+Email: lukeslautterback@gmail.com
+LinkedIn: [Click Here](https://www.linkedin.com/in/luke-slautterback-713728233/)
 
-Contact
-Provide ways for interested parties to reach out to you, whether through GitHub, email, LinkedIn, or other platforms.
-
-License
+**License**
 This repository's contents are open-source under the MIT license.
 Feel free to explore the projects and delve into the code. Your feedback and suggestions are highly appreciated. Thank you for visiting my portfolio repository!
 
