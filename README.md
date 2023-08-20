@@ -10,7 +10,7 @@ GitHub Link: Project 1
 This application developed using SQL and Python offers users a streamlined platform to engage with the world. Users can effortlessly create accounts secured with robust utf-8 password encryption, ensuring their privacy. Enhancing personalization, the application lets users set profile pictures, contact details, and address information according to their preferences. The highlight of this application is the ability to compose and share tweets, which are seamlessly integrated into the main feed. This enables users to effortlessly broadcast messages to a broader audience within the platform.
 GitHub Link: Project 2
 
-3. WIP
+3. Website
 Description: WIP
 GitHub Link: WIP
 
