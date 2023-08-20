@@ -11,7 +11,8 @@ import re
 class Gui(ctk.CTk):
     def __init__(self):
         super().__init__()
-        
+
+        #set ctk default application colors
         ctk.set_appearance_mode("Dark")
         ctk.set_default_color_theme("dark-blue")
         
@@ -27,7 +28,8 @@ class Gui(ctk.CTk):
         y_cordinate = int((screen_height/2) - (window_height/2))
         self.geometry("{}x{}+{}+{}".format(window_width, window_height, x_cordinate, y_cordinate - 100))
         self.resizable(False, False)
-        
+
+        #Add image to login window
         datafile2 = "twitterbird.png"
         if not hasattr(sys, "frozen"):
             datafile2 = os.path.join(os.path.dirname(__file__), datafile2)
@@ -85,7 +87,7 @@ class Gui(ctk.CTk):
         # Check if the table exists
         mycursor.execute("SHOW TABLES LIKE 'user'")
         table_exists = mycursor.fetchone() is not None
-
+        
         if table_exists:
             # Fetch the user by username
             mycursor.execute("SELECT * FROM user WHERE name = %s", (self.username,))
