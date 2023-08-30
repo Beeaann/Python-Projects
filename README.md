@@ -1,4 +1,4 @@
-<p align="center">My Project Portfolio Repository</p>
+<p align="center">My Python Project Repository</p>
 Welcome to my GitHub repository showcasing my various projects! This repository serves as a comprehensive portfolio of my work, highlighting my skills, creativity, and dedication to different areas of interest. Each project demonstrates my growth as a developer and my passion for continuous learning.
 
 **Python Projects**
