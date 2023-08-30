@@ -4,7 +4,7 @@ Welcome to my GitHub repository showcasing my various projects! This repository 
 **Python Projects**
 1. RAS Negotiator:
 Description: The RAS Negotiator is a specialized calculator employed by the law firm RAS LaVrar and developed using Python with customtkinter. Designed for their call center operations, this tool plays a crucial role in formulating personalized debt payment plans. By inputting caller account details, the program generates a comprehensive table outlining the payment schedule. This table includes essential information such as payment dates, initial and final payment amounts, optional down payment figures, and caller identification. The RAS Negotiator empowers the call center to craft effective and manageable payment arrangements for individuals seeking to settle their debts.
-GitHub Link: [Project 1](https://github.com/Beeaann/My-Projects/blob/main/my-code/RAS%20Negotiator_20230809_v17.py)
+GitHub Link: [Project 1](https://github.com/Beeaann/Python-Projects/blob/main/my-code/RAS%20Negotiator_20230825_v18.py)
 
 2. Simple SQL Messaging Application:
 This application developed using SQL and Python offers users a streamlined platform to engage with the world. Users can effortlessly create accounts secured with robust utf-8 password encryption, ensuring their privacy. Enhancing personalization, the application lets users set profile pictures, contact details, and address information according to their preferences. The highlight of this application is the ability to compose and share messages, which are seamlessly integrated into the main feed. This enables users to effortlessly broadcast messages to a broader audience within the platform.
