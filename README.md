@@ -49,6 +49,3 @@ LinkedIn: [Click Here](https://www.linkedin.com/in/luke-slautterback-713728233/)
 License
 This repository's contents are open-source under the MIT license.
 Feel free to explore the projects and delve into the code. Your feedback and suggestions are highly appreciated. Thank you for visiting my portfolio repository!
-
-Luke Slautterback
-8/11/2023
