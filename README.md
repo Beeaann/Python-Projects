@@ -1,5 +1,5 @@
 <p align="center">My Python Project Repository</p>
-Welcome to my GitHub repository showcasing my various projects! This repository serves as a comprehensive portfolio of my work, highlighting my skills, creativity, and dedication to different areas of interest. Each project demonstrates my growth as a developer and my passion for continuous learning.
+Welcome to my GitHub repository showcasing my various Python projects! This repository serves as a comprehensive portfolio of my work, highlighting my skills, creativity, and dedication to different areas of interest. Each project demonstrates my growth as a developer and my passion for continuous learning.
 
 **Python Projects**
 1. **RAS Negotiator**:
